@@ -5,5 +5,5 @@ Course: BSCS-AI
 Section: 2A
 Github Username: LHEYYUEHUA013
 
-## Laboratory Activities##
+## Laboratory Activities ##
 Lab 1: Environment Onboarding
